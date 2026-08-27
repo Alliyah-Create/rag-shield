@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore the local vector database
+chroma_db/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore your secret API key
+.env
